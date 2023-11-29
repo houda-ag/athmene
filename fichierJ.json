@@ -1,0 +1,40 @@
+{
+"nif" : 2569856321475862,
+"bp" : 2000057260,
+"num_decision" : 01,
+"date_decision" : 29-11-2023,
+"montant" : "50000000000",
+"valide_depuis" : 01-01-2024,
+"valide_jusqua" : 31-12-2026,
+"nif_fournisseur" : 2569886321479861,
+"adres_fournisseur" : "adresse1",
+"factures" : [
+                {
+                  "num_facture" : 001,
+                  "date_facture" : 01-03-2024,
+                  "designation" : "design1",
+                  "nif_fournisseur" : 2569886321479861,
+                  "valeur_biens" : 150000,
+                  "montant_tva_non_acquittes" : 20000000,
+                  "affec_precise_biens" : "affect1"
+                },
+                {
+                  "num_facture" : 002,
+                  "date_facture" : "01-07-2024,
+                  "designation" : "design2",
+                  "nif_fournisseur" : 2569886321479861,
+                  "valeur_biens" : 20000000,
+                  "montant_tva_non_acquittes" : 20000000,
+                  "affec_precise_biens" : "affect2"
+                },
+                {
+                 "num_facture" : 003,
+                  "date_facture" : "21-04-2025",
+                  "designation" : "design3",
+                  "nif_fournisseur" : 2569886321479861,
+                  "valeur_biens" : 250000000,
+                  "montant_tva_non_acquittes" : 2000000,
+                  "affec_precise_biens" : "affect3"
+                }
+              ]
+}
